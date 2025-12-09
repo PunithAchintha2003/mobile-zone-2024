@@ -12,7 +12,6 @@ A Windows Forms desktop application for managing mobile phone inventory and cust
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
 - [Database](#database)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Author](#author)
@@ -157,10 +156,6 @@ Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename="[Path]\Mobile Zone.mdf";Int
 ```
 
 **Note**: Update the connection string path in the source files to match your local database location.
-
-## 📸 Screenshots
-
-_Add screenshots of your application here to showcase the UI and features._
 
 ## 🤝 Contributing
 
