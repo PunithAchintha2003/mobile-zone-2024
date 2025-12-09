@@ -178,7 +178,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-- Group Work
+- **Development Team** - Year 1 Semester 3 Object Oriented Programming with C#
 
 ## 🙏 Acknowledgments
 
