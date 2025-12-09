@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Mobile Zone\bin\Debug\Mobile Zone.exe.config
+C:\Users\Administrator\Desktop\Mobile Zone\bin\Debug\Mobile Zone.exe
+C:\Users\Administrator\Desktop\Mobile Zone\bin\Debug\Mobile Zone.pdb
+C:\Users\Administrator\Desktop\Mobile Zone\obj\Debug\Mobile Zone.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Mobile Zone\obj\Debug\Mobile_Zone.login.resources
+C:\Users\Administrator\Desktop\Mobile Zone\obj\Debug\Mobile_Zone.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Mobile Zone\obj\Debug\Mobile Zone.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Mobile Zone\obj\Debug\Mobile Zone.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Mobile Zone\obj\Debug\Mobile Zone.exe
+C:\Users\Administrator\Desktop\Mobile Zone\obj\Debug\Mobile Zone.pdb
+C:\Users\Administrator\Desktop\Mobile Zone\obj\Debug\Mobile_Zone.Customer.resources
+C:\Users\Administrator\Desktop\Mobile Zone\obj\Debug\Mobile_Zone.Home.resources
+C:\Users\Administrator\Desktop\Mobile Zone\obj\Debug\Mobile_Zone.MobilePhone.resources
+C:\Users\Administrator\Desktop\Mobile Zone\obj\Debug\Mobile_Zone.View.resources
+C:\Users\Administrator\Desktop\Mobile Zone\bin\Debug\Mobile Zone.mdf
+C:\Users\Administrator\Desktop\Mobile Zone\bin\Debug\Mobile Zone_log.ldf
